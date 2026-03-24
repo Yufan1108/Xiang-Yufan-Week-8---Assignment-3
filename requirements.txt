@@ -1,0 +1,4 @@
+crewai==0.1.32
+python-dotenv==1.0.0
+openai
+sqlalchemy>=2.0.0

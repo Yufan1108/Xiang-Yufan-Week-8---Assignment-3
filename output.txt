@@ -1,0 +1,22 @@
+D:\Anaconda3\lib\site-packages\pydantic\_internal\_generate_schema.py:937: UserWarning: Mixing V1 models and V2 models (or constructs, like `TypeAdapter`) is not supported. Please upgrade `CrewAgentExecutor` to V2.
+  warnings.warn(
+[Mock Mode] OPENAI_API_KEY not found. Running offline sequential flow.
+[Researcher] Completed Task1 and called get_retention_benchmarks.
+[Analyst] Completed Task2 and called calculate_roi.
+[Writer] Completed Task3 and produced final report.
+
+=== FINAL RESULT ===
+Business Analysis Report
+# Executive Summary
+Improve repurchase through three priority initiatives while controlling margin risk.
+# Key Insights
+The main breakpoints are activation path quality and engagement timing windows.
+# Recommendations & Implementation Steps
+Execute activation-first engagement, recommendation-window operations, and high-value reactivation by segment.
+# Roadmap(0-30/31-90/91-180 days)
+Start with instrumentation and experiments, then scale.
+# KPI Measurement Plan
+Track funnel and repurchase weekly; update ROI monthly.
+# Risks & Next Actions
+Validate with small traffic before wider rollout.
+[Done] Generated crew-run-log.json (task prompts + outputs).
